@@ -13,3 +13,11 @@
   website: https://ghost.org/
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: michael
+  avatar: avatars/bird.jpg
+  bio: I'm Web Engineer.
+  twitter: 4ro_ro4
+  # facebook: ghost
+  website: https://pro-web-engineer.com
+  location: Tokyo
+  profile_image: img/alex-knight-326705-unsplash.jpg
